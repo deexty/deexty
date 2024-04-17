@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou Eduardo Soares</h1>
+<h1 align="center" >Olá 👋, Eu sou Eduardo Soares</h1>
 <h3 align="center">Atualmente sou desenvolvedor Full-stack</h3>
 
 <h3 align="left">Connect with me:</h3>
