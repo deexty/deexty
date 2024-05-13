@@ -26,8 +26,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eduardo-soares-14ab94233)
 
 <!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/deexty/deexty/assets/139413984/5c1c5bd3-f6c5-4430-91af-f237fca35452" alt="Imagem">
+<p align="left" width="100%">
+  <img align="center" width="100%" src="https://github.com/deexty/deexty/assets/139413984/5c1c5bd3-f6c5-4430-91af-f237fca35452" alt="Imagem">
 </p>
 
 ## 🔥 Skills
