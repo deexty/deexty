@@ -27,7 +27,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://tenor.com/pt-BR/view/aesthetically-aesthetic-shoes-flowers-raining-gif-16942240" alt="Imagem">
+  <img align="center" src="https://github.com/deexty/deexty/assets/139413984/5c1c5bd3-f6c5-4430-91af-f237fca35452" alt="Imagem">
 </p>
 
 ## 🔥 Skills
