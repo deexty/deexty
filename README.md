@@ -24,10 +24,10 @@
 
 <div align="center">
     <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=belone0&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belone0&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&layout=compact" />
+        <img src="https://github-readme-stats.vercel.app/api?username=deexty&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deexty&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&layout=compact" />
     </div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=belone0&show_icons=true&theme=gotham&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=deexty&show_icons=true&theme=gotham&hide_border=true" />
 </div>
 
 <!-- Links -->
