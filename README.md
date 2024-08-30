@@ -22,6 +22,13 @@
   - ⚡ Eu preferencialmente gosto mais do ramo do back-end, porém possuo notaveis habilidades no front-end \o/
 </details>
 
+<div align="center">
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=belone0&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belone0&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&layout=compact" />
+    </div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=belone0&show_icons=true&theme=gotham&hide_border=true" />
+</div>
 
 <!-- Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eduardo-soares-14ab94233)
