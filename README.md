@@ -22,6 +22,14 @@
   - ⚡ Eu preferencialmente gosto mais do ramo do back-end, porém possuo notaveis habilidades no front-end \o/
 </details>
 
+
+
+<!-- Links -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eduardo-soares-14ab94233)
+
+### Portfolio
+Acesse: https://eduardosoares.dev
+
 <div align="center">
     <div>
         <img src="https://github-readme-stats.vercel.app/api?username=deexty&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true" />
@@ -30,11 +38,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=deexty&show_icons=true&theme=gotham&hide_border=true" />
 </div>
 
-<!-- Links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eduardo-soares-14ab94233)
-
-### Portfolio
-Acesse: https://eduardosoares.dev
 <!-- GIF -->
 <p align="left" width="100%">
   <img align="center" width="100%" src="https://github.com/deexty/deexty/assets/139413984/b38998aa-f8a9-439b-a08c-5cf48847db5e" alt="Imagem">
