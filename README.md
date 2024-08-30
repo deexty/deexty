@@ -38,7 +38,3 @@ Acesse: https://eduardosoares.dev
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=deexty&show_icons=true&theme=gotham&hide_border=true" />
 </div>
 
-<!-- GIF -->
-<p align="left" width="100%">
-  <img align="center" width="100%" src="https://github.com/deexty/deexty/assets/139413984/b38998aa-f8a9-439b-a08c-5cf48847db5e" alt="Imagem">
-</p>
